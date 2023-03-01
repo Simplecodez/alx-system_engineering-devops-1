@@ -1,2 +1,5 @@
 #!/usr/bin/env ruby
-puts ARGV[0].scan(/hbt*n/).join
+
+# Match htbn and hbn
+
+puts ARGV[0].scan(/hbt*n/)
