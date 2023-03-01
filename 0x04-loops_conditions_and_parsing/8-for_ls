@@ -8,3 +8,4 @@ for eachfile in $currDir
 do
 	cut -d "-" -f2- <<< "$eachfile"
 done
+

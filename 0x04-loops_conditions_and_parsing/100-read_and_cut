@@ -10,3 +10,4 @@ do
 	cut -d: -f6 <<<"$p" | tr -d $'\n'
 	echo
 done <$FILE
+
