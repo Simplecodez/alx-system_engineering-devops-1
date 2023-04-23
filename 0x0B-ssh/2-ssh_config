@@ -48,3 +48,8 @@ Host *
     SendEnv LANG LC_*
     HashKnownHosts yes
     GSSAPIAuthentication yes
+
+Host 34.234.201.207
+    passwordAuthentification no
+    IdentifyFile ~/.ssh/school
+
