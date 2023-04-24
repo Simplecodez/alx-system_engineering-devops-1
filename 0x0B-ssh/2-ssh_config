@@ -49,7 +49,7 @@ Host *
     HashKnownHosts yes
     GSSAPIAuthentication yes
 
-Host 34.234.201.207
+Host 52.91.119.196
     passwordAuthentification no
     IdentifyFile ~/.ssh/school
 
